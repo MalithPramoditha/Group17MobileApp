@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461839738913",
+    "project_id": "facultyreservation",
+    "storage_bucket": "facultyreservation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461839738913:android:aa87a18abeaa7cf89a1b60",
+        "android_client_info": {
+          "package_name": "com.example.facultyreservation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZD50L3hmGNbZgmmh3enNoIHyTNilaSEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
